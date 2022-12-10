@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @Capalbo1 i know tre languages(english, portuguese , spanish)  👀 I’m interested in ... learn my 4° language (javascript)
-- olá eu sou o @Capalbo1 sou Brasileiro e sei 3 idiomas ( (inglês, português , espanhol) to aprendendo *~HTML~* ~css~ (Javascript  react)
+- 👋 Hi, I’m @Capalbo1 i know three
+ languages(english, portuguese , spanish)  👀 I’m interested in ... learn my 4° language (javascript)
+- olá eu sou o @Capalbo1 sou Brasileiro e sei 3 idiomas ( (inglês, português , espanhol) to aprendendo *~HTML~* ~css~ (Javascript / react)
 - hola y soy @Capalbo1 yo también sé (español y se ingles y portugues)  
 vou postando uns projetos meus aqui 
 
